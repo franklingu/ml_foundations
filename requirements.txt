@@ -1,2 +1,5 @@
 ipython[notebook]
 turicreate==4.3.2
+matplotlib
+sklearn
+scipy
